@@ -1,0 +1,121 @@
+ .box{
+            display: flex;
+        }
+        .one{
+            background-color: rgb(243, 187, 3);
+            text-align: center;
+            margin: 10px;
+            padding: 70px;
+            width: 150px;
+        }
+        .two{
+            background-color: rgb(243, 187, 3);
+            text-align: center;
+            margin: 10px;
+            padding: 70px;
+             width: 150px;
+        }
+        .three{
+            background-color: rgb(243, 187, 3);
+            text-align: center;
+            margin: 10px;
+            padding: 70px;
+             width: 150px;
+        }
+        .four{
+            background-color: rgb(243, 187, 3);
+            text-align: center;
+            margin: 10px;
+            padding: 70px;
+             width: 150px;
+        }
+        .five{
+            background-color: rgb(243, 187, 3);
+            text-align: center;
+            margin: 10px;
+            padding: 70px;
+             width: 150px;
+        }
+        .start{
+            background-color: burlywood;
+            margin: 10px;
+            padding: 50px;
+            text-align: center;
+        }
+        .box1{
+            display: flex;
+        }
+        .first{
+            background-color: rgb(243, 187, 3);
+            text-align: center;
+            margin: 10px;
+            padding: 70px;
+             width: 150px;
+        }
+        .second{
+            background-color: rgb(243, 187, 3);
+            text-align: center;
+            margin: 10px;
+            padding: 70px;
+             width: 150px;
+        }
+        .third{
+            background-color: rgb(243, 187, 3);
+            text-align: center;
+            margin: 10px;
+            padding: 70px;
+             width: 150px;
+        }
+        .forth{
+            background-color: rgb(243, 187, 3);
+            text-align: center;
+            margin: 10px;
+            padding: 70px;
+             width: 150px;
+        }
+        .fifth{
+            background-color: rgb(243, 187, 3);
+            text-align: center;
+            margin: 10px;
+            padding: 70px;
+             width: 150px;
+        }
+        .end{
+            background-color: burlywood;
+            margin: 10px;
+            padding: 50px;
+            text-align: center;
+        }
+        .box2{
+            display: flex;
+        }
+        .nav1{
+           background-color: chocolate;
+           margin: 10px;
+           padding: 50px;
+           width: 400px;
+           height: 150px;
+           text-align: center;
+        }
+        .nav2{
+            background-color: chocolate;
+           margin: 10px;
+           padding: 50px;
+           width: 400px;
+           height: 150px;
+           text-align: center;
+        }
+        .nav3{
+             background-color: chocolate;
+           margin: 10px;
+           padding: 50px;
+           width: 400px;
+           height: 150px;
+           text-align: center;
+        }
+        .end2{
+            background-color: burlywood;
+            margin: 10px;
+            padding: 50px;
+            text-align: center;
+        }
